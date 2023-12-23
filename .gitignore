@@ -1,0 +1,9 @@
+.idea
+.git
+Bot/config.py
+tokens.json
+endpoints
+Bot/guilded_servers
+Bot/revolt_servers
+Bot/revolt.log
+_pycache__
